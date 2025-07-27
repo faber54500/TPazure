@@ -18,13 +18,13 @@
 **IMC.csv**
 -Fichier nettoyé via Jupiter Notebook
 -Remplacement des valeurs manquantes (NaN)
--Test de corréaltion linéaire
+-Test de corrélation linéaire
 
 ---
 
 **Requête3.csv**
 -Passage en numérique
--récupéartion du fichier de ma base de donnée SQL pour travail dans Power-By
+-récupération du fichier de ma base de donnée SQL pour travail dans Power-By
 
 ---
 
