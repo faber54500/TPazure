@@ -30,13 +30,13 @@
 
 ---
 
-**donnesantepourcluster.csv**
+**Donnesantepourcluster.csv**
 -retraitement des valeurs pour passer toutes les colonnes en numérique pour faire le clustering dans azure AI 
 
 
 ---
 
-**clustersante.csv**
+**Clustersante.csv**
 -Extraction des données à partir de convert to csv
 -Visualisation des résultats dans jupyter notebook des données de sortie du clustering sous azure AI
 
