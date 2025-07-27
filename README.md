@@ -11,18 +11,18 @@
 ### contenu des fichiers 
 
 **synthetic_health_lifestyle_dataset.csv'**
-Fichier brut initial
+#-Fichier brut initial
 
 ---
 
 **IMC.csv**
--Fichier nettoyé via Jupiter Notebook
--Remplacement des valeurs manquantes (NaN)
--Test de corréaltion linéaire
+#-Fichier nettoyé via Jupiter Notebook
+#-Remplacement des valeurs manquantes (NaN)
+#-Test de corréaltion linéaire
 
 ---
 
-**Requête3.csv"
+**Requête3.csv**
 -Passage en numérique
 -récupéartion du fichier de ma base de donnée SQL pour travail dans Power-By
 
