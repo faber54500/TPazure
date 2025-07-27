@@ -10,6 +10,8 @@
 
 ### contenu des fichiers 
 
+---
+
 **synthetic_health_lifestyle_dataset.csv'**
 -Fichier brut initial
 
