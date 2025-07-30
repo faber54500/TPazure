@@ -41,3 +41,20 @@
 -Visualisation des résultats dans jupyter notebook des données de sortie du clustering sous azure AI
 
 ---
+
+**Donnesanté.pbix**
+-Données travaillées sous power BI
+
+---
+
+**Rapport**
+
+---
+
+**Sujet_cloud.ipynb**
+programme pour transformation des données
+
+---
+
+
+
