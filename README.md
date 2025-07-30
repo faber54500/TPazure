@@ -52,7 +52,7 @@
 ---
 
 **Sujet_cloud.ipynb**
-programme pour transformation des données
+-programme pour transformation des données
 
 ---
 
